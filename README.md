@@ -3,6 +3,9 @@ A text adventure game written in 2019. It is semi playable but not winnable.
 
 You might have to create an empty folder called Saves within the game folder if you wish you save your game.
 
+WALKTHROUGH (Mentioned in Beta 1.2):
+https://docs.google.com/document/d/1BsU_JmwzU5gw8Mcr2Lg441n4vxkIkBSdu4PeV3TpzW0/edit
+
 CHANGELOG:
 
 BETA 1.5
